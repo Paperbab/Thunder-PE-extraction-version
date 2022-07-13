@@ -7,6 +7,9 @@
 + 可以关联种子(.torrent)文件格式
 + 可以监听剪切板
 ### 食用方法
+在这里下载[Release](https://github.com/Paperbab/Thunder-PE-extraction-version/releases/tag/V1)
+
+
 只需要下载后解压，打开迅雷PE文件夹，找到thunder.exe，双击即可
 
 ~~该不会这都不会吧~~
